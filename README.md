@@ -20,7 +20,9 @@ Dataset: FitBit Fitness Tracker Data (Kaggle · CC0 · 33 users)
 ## Recommendations (Bellabeat Leaf)
 
 Position Leaf as a sedentary lifestyle solution — target working women via Google Search & Instagram
+
 Launch a Weekend Wellness Campaign — push Sunday notifications via the Bellabeat app
+
 Promote Leaf as a sleep & activity balance tool — run YouTube ads on whole-body wellness
 
 ## Files
