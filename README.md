@@ -25,8 +25,7 @@ Launch a Weekend Wellness Campaign — push Sunday notifications via the Bellabe
 
 Promote Leaf as a sleep & activity balance tool — run YouTube ads on whole-body wellness
 
-## Files
-
-bellabeat_analysis.ipynb — Full analysis notebook
-Bellabeat_Case_Study.pptx — Presentation slides
-Bellabeat_Report.docx — Final report
+## 📄 Final Report
+* You can view the full detailed reports and ducumentation in the [Reports folder](./Reports).
+* You can view the full detailed python coding in the [Notebooks folder](./Notebooks).
+* You can view the full detailed visualizations in the [Visualization folder](./Visualization).
