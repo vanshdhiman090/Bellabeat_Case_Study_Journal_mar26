@@ -1,7 +1,7 @@
 # Bellabeat Smart Device Analysis Google Data Analytics Capstone Case Study
 
 ## Overview
-Analyzed FitBit fitness tracker data to uncover smart device usage trends and deliver marketing strategy recommendations for the Bellabeat Leaf wellness tracker.
+* Analyzed FitBit fitness tracker data to uncover smart device usage trends and deliver marketing strategy recommendations for the Bellabeat Leaf wellness tracker.
 
 ## Business Task
 * How can smart device usage trends inform Bellabeat's marketing strategy?
