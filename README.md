@@ -8,7 +8,7 @@
 
 ## Tools & Dataset
 
-* Tools: Python · Pandas · Matplotlib · Seaborn · Google Colab
+* Tools: Python ( Pandas , Matplotlib , Seaborn ) , Google Colab , Google Docs and  Google Slides 
 * Dataset: FitBit Fitness Tracker Data (Kaggle · CC0 · 33 users)
 
 ## Key Findings
